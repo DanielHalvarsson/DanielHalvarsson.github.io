@@ -1,5 +1,3 @@
-# DanielHalvarsson.github.io
-
 # Notes
 Links and other resources 
 
