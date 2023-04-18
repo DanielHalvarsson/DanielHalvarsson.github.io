@@ -10,7 +10,11 @@
           throw new Error(`HTTP error! status: ${response.status}`);
         }
         const content = await response.text();
-        document.querySelector('md-block').innerHTML = content;
+        const mdBlock = document.createElement('md-block');
+        mdBlock.innerHTML = content;
+        
+        const existingMdBlock = document.querySelector('md-block');
+        existingMdBlock.replaceWith(mdBlock);
       } catch (error) {
         console.error('Error fetching README.md: ', error);
       }
