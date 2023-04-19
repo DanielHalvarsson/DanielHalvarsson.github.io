@@ -1,6 +1,12 @@
 # Notes  
 Links and other resources 
 
+
+2023-04-19  
+Pen and Paper Exercises in Machine Learning  
+https://arxiv.org/abs/2206.13446  
+
+
 2023-04-18  
 MACHINE LEARNING FOR ECONOMICS RESEARCH: WHEN WHAT AND HOW?  
 https://arxiv.org/abs/2304.00086
