@@ -3,6 +3,9 @@ Links and other resources
 
 
 2023-04-19  
+Understanding deep learning  
+udlbook.github.io/udlbook/  
+
 Pen and Paper Exercises in Machine Learning  
 https://arxiv.org/abs/2206.13446  
 
