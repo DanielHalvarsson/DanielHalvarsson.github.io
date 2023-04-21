@@ -1,6 +1,8 @@
 # Notes  
 Links and other resources 
 
+2023-04-21  
+
 
 2023-04-19  
 Understanding deep learning  
