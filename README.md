@@ -1,8 +1,21 @@
 # Notes  
 Links and other resources 
 
-2023-04-21  
+2023-04-27  
+Segment Anything  
+https://arxiv.org/abs/2304.02643
 
+Transformers from Scratch  
+https://e2eml.school/transformers.html  
+
+Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond  
+https://arxiv.org/abs/2304.13712  
+
+What Is ChatGPT Doing … and Why Does It Work?  
+https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/  
+
+A Cookbook of Self-Supervised Learning  
+https://arxiv.org/abs/2304.12210
 
 2023-04-19  
 Understanding deep learning  
