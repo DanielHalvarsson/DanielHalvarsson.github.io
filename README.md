@@ -1,5 +1,11 @@
 # Notes  
+
 Links and other resources 
+
+
+2023-05-07
+Interpretable Machine Learning for Science with PySR and SymbolicRegression.jl
+https://arxiv.org/abs/2305.01582  
 
 2023-04-27  
 Segment Anything  
