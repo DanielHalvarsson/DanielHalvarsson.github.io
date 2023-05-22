@@ -2,6 +2,12 @@
 
 Links and other resources 
 
+20023-05-18  
+A User’s Guide to GPT and LLMs for Economic Research
+https://bcf.princeton.edu/wp-content/uploads/2023/05/A_User_s_Guide_to_GPT_and_LLMs_for_Economic_Research.pdf
+
+Quantecon books:  https://networks.quantecon.org/
+                  https://github.com/QuantEcon/book-dp1/blob/main/dp.pdf  
 
 2023-05-07
 Interpretable Machine Learning for Science with PySR and SymbolicRegression.jl
