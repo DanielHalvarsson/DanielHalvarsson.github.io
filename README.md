@@ -2,7 +2,12 @@
 
 Links and other resources 
 
-20023-05-18  
+2023-06-06  
+For GPT:  
+This is my manuscript so far, are there any particular paragraphs that you think is unclear or could be rephrased better?  
+- Are there any particular points that I should try to improve, where I've been less clear or don't explain enough to give the whole picture?  
+
+2023-05-18  
 A User’s Guide to GPT and LLMs for Economic Research
 https://bcf.princeton.edu/wp-content/uploads/2023/05/A_User_s_Guide_to_GPT_and_LLMs_for_Economic_Research.pdf
 
