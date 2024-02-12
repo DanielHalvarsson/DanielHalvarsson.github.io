@@ -1,7 +1,7 @@
 # Notes  
 
-Presentation Ratio feb 2024:
-https://github.com/DanielHalvarsson/Notes/blob/main/PresentationsDiD.pdf
+Presentation Ratio feb 2024:  
+https://github.com/DanielHalvarsson/Notes/blob/main/PresentationsDiD.pdf  
 
 
 Links and other resources 
