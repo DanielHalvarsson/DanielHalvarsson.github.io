@@ -4,7 +4,7 @@ Presentation Ratio feb 2024:
 https://github.com/DanielHalvarsson/Notes/blob/main/PresentationsDiD.pdf  
 
 
-Links and other resources 
+Links and other resources  
 
 2023-06-06  
 For GPT:  
@@ -12,10 +12,11 @@ This is my manuscript so far, are there any particular paragraphs that you think
 - Are there any particular points that I should try to improve, where I've been less clear or don't explain enough to give the whole picture?  
 
 2023-05-18  
-A User’s Guide to GPT and LLMs for Economic Research
+A User’s Guide to GPT and LLMs for Economic Research  
 https://bcf.princeton.edu/wp-content/uploads/2023/05/A_User_s_Guide_to_GPT_and_LLMs_for_Economic_Research.pdf
 
-Quantecon books:  https://networks.quantecon.org/
+Quantecon books:  
+https://networks.quantecon.org/
                   https://github.com/QuantEcon/book-dp1/blob/main/dp.pdf  
 
 2023-05-07
